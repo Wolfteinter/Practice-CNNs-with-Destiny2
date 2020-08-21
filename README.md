@@ -18,7 +18,7 @@ The images are like this...
 
 The plot of the training result is the next...
 
-The accuracy in the test set was of 0.9578
+The accuracy in the test set was of **95.78%**
 
 ![plot](https://github.com/Wolfteinter/Practice-CNNs-with-Destiny2/blob/master/Project%201/images/loss_plot.png)
 
