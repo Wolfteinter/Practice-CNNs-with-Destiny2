@@ -22,6 +22,10 @@ The accuracy in the test set was of **95.78%**
 
 ![plot](https://github.com/Wolfteinter/Practice-CNNs-with-Destiny2/blob/master/Project%201/images/loss_plot.png)
 
+The structure of the prediction model used is...
+
+![modelplot](https://github.com/Wolfteinter/Practice-CNNs-with-Destiny2/blob/master/Project%201/images/prediction_model.png)
+
 The prediction results are the following images..
 
 ![res1](https://github.com/Wolfteinter/Practice-CNNs-with-Destiny2/blob/master/Project%201/images/res1.png)
