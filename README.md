@@ -1,4 +1,7 @@
-# Practice-CNNs-with-Destiny2
+# Practice CNNs with Destiny 2 :earth_americas: :milky_way:
+The purpose of this repository is practice design and construction of Convolutional neural networks(CNN) using a dataset created from Destiny 2 [website
+](https://data.destinysets.com/) is expected 4 projects using the same datasets or derivatives,if you have any suggestions you can write to me
+
 ## Project 1
 The objective of this project is the classification of the armors of Destiny 2 game in 4 types of armors using a Convolutional neural network(CNN)
 * Arms
@@ -6,7 +9,7 @@ The objective of this project is the classification of the armors of Destiny 2 g
 * Helmet
 * Legs
 
-The model was trained in a GPU 1660 Super using Python 3.7.4, Keras
+The model was trained in a GPU 1660 Super using Python 3.7.4 :snake:, Keras
 
 The images are like this...
 ![Examples](https://github.com/Wolfteinter/Practice-CNNs-with-Destiny2/blob/master/Project%201/images/Explication.png)
